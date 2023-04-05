@@ -1,0 +1,12 @@
+C:\VividRT\VividRT\bin\Debug\net7.0\VividRT.deps.json
+C:\VividRT\VividRT\bin\Debug\net7.0\VividRT.dll
+C:\VividRT\VividRT\bin\Debug\net7.0\VividRT.pdb
+C:\VividRT\VividRT\obj\Debug\net7.0\VividRT.csproj.AssemblyReference.cache
+C:\VividRT\VividRT\obj\Debug\net7.0\VividRT.GeneratedMSBuildEditorConfig.editorconfig
+C:\VividRT\VividRT\obj\Debug\net7.0\VividRT.AssemblyInfoInputs.cache
+C:\VividRT\VividRT\obj\Debug\net7.0\VividRT.AssemblyInfo.cs
+C:\VividRT\VividRT\obj\Debug\net7.0\VividRT.csproj.CoreCompileInputs.cache
+C:\VividRT\VividRT\obj\Debug\net7.0\VividRT.dll
+C:\VividRT\VividRT\obj\Debug\net7.0\refint\VividRT.dll
+C:\VividRT\VividRT\obj\Debug\net7.0\VividRT.pdb
+C:\VividRT\VividRT\obj\Debug\net7.0\ref\VividRT.dll
